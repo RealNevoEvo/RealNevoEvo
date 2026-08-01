@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="30" viewBox="0 0 228 30" role="img" aria-label="DOI 10.5281/zenodo.21401927">
+  <rect x="0.5" y="0.5" width="227" height="29" rx="14.5" fill="#1A1130" stroke="#3B2A6B"/>
+  <circle cx="17" cy="15" r="6.5" fill="none" stroke="#5AA8FF" stroke-width="1.6"/>
+  <text x="13.4" y="19" fill="#5AA8FF" font-size="9" font-weight="700"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">D</text>
+  <text x="30" y="19.5" fill="#5AA8FF" font-size="11" font-weight="700" letter-spacing="0.6"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">DOI</text>
+  <text x="62" y="19.5" fill="#A8D8FF" font-size="11.5" letter-spacing="0.4"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">10.5281/zenodo.21401927</text>
+</svg>
