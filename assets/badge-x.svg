@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="30" viewBox="0 0 72 30" role="img" aria-label="X">
-  <rect x="0.5" y="0.5" width="71" height="29" rx="14.5" fill="#1A1130" stroke="#3B2A6B"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="30" viewBox="0 0 59 30" role="img" aria-label="X">
+  <rect x="0.5" y="0.5" width="58" height="29" rx="14.5" fill="#1A1130" stroke="#3B2A6B"/>
   <path d="M12.5 10l9 10M21.5 10l-9 10" stroke="#A8D8FF" stroke-width="1.6" stroke-linecap="round"/>
   <text x="32" y="19.5" fill="#A8D8FF" font-size="12" letter-spacing="0.6"
         font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">X</text>
