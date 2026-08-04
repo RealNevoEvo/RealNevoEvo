@@ -31,7 +31,7 @@ of AGI blur: replicating human *performance* is not the same as replicating huma
 six components of genuine intelligence and a five-level taxonomy measurable against them.
 **The Acceptance Gate** goes one level deeper, into the mechanism itself: what has to be true for any
 agent to act against its own strongest schema — detection, acceptance, override. The second station is
-the bottleneck, because acceptance means letting a truth stand even when it threatens what your
+where it binds, because acceptance means letting a truth stand even when it threatens what your
 self-worth rests on.
 
 **[From Mimicry to True Intelligence (TI) — A New Paradigm for Artificial General Intelligence](https://arxiv.org/abs/2509.14474)**
@@ -43,7 +43,7 @@ Nevzat Subasioglu · Preprint · July 2026
 ## Selected work
 
 **acceptance-gate** — Preprint repository and interactive simulation tool exploring the three-stage
-bottleneck of cognitive schema override.
+ceiling on cognitive schema override.
 
 **true-intelligence** — The public architectural trajectory of True Intelligence, bridging
 consciousness research with lean, biological AGI.
