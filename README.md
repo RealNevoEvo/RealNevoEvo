@@ -7,7 +7,7 @@
 [![DOI 10.5281/zenodo.21401927](assets/badge-doi.svg)](https://doi.org/10.5281/zenodo.21401927)
 [![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/nevzat-subasioglu/)
 [![X](assets/badge-x.svg)](https://x.com/NevSub)
-[![Instagram](assets/badge-instagram.svg)](https://www.instagram.com/nevsub/)
+[![Instagram](assets/badge-instagram.svg)](https://www.instagram.com/nevosub/)
 
 <img src="assets/acceptance-gate.svg" alt="The three-station loop of the Acceptance Gate" width="100%">
 
