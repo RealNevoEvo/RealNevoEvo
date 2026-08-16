@@ -43,6 +43,3 @@ Nevzat Subasioglu · Preprint · July 2026 · DOI pending
 
 **acceptance-gate** is the preprint repository and interactive simulation tool exploring the
 three-stage ceiling on cognitive schema override.
-
-**true-intelligence** is the public architectural trajectory of True Intelligence, bridging
-consciousness research with lean, biological AGI.
