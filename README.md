@@ -4,7 +4,6 @@
 [![ORCID 0009-0003-1742-1979](assets/badge-orcid.svg)](https://orcid.org/0009-0003-1742-1979)
 [![Google Scholar](assets/badge-scholar.svg)](https://scholar.google.com/citations?user=wdtD6d8AAAAJ)
 [![arXiv 2509.14474](assets/badge-arxiv.svg)](https://arxiv.org/abs/2509.14474)
-[![DOI 10.5281/zenodo.21401927](assets/badge-doi.svg)](https://doi.org/10.5281/zenodo.21401927)
 [![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/nevzat-subasioglu/)
 [![X](assets/badge-x.svg)](https://x.com/NevSub)
 [![Instagram](assets/badge-instagram.svg)](https://www.instagram.com/nevosub/)
@@ -37,8 +36,8 @@ self-worth rests on.
 **[From Mimicry to True Intelligence (TI): A New Paradigm for Artificial General Intelligence](https://arxiv.org/abs/2509.14474)**
 Meltem Subasioglu, Nevzat Subasioglu · arXiv, cs.AI / cs.CY · September 2025
 
-**[The Acceptance Gate: Three Necessary Conditions for Acting Against One's Strongest Schema](https://doi.org/10.5281/zenodo.21401927)**
-Nevzat Subasioglu · Preprint · July 2026
+**The Acceptance Gate: Three Necessary Conditions for Acting Against One's Strongest Schema**
+Nevzat Subasioglu · Preprint · July 2026 · DOI pending
 
 ## Selected work
 
