@@ -33,13 +33,18 @@ agent to act against its own strongest schema. Detection, acceptance, override. 
 where it binds, because acceptance means letting a truth stand even when it threatens what your
 self-worth rests on.
 
-**[From Mimicry to True Intelligence (TI): A New Paradigm for Artificial General Intelligence](https://arxiv.org/abs/2509.14474)**
+**[From Mimicry to True Intelligence (TI) -- A New Paradigm for Artificial General Intelligence](https://arxiv.org/abs/2509.14474)**
 Meltem Subasioglu, Nevzat Subasioglu · arXiv, cs.AI / cs.CY · September 2025
 
-**The Acceptance Gate: Three Necessary Conditions for Acting Against One's Strongest Schema**
-Nevzat Subasioglu · Preprint · July 2026 · DOI pending
+**The Acceptance Gate: Three Necessary Conditions for the Capacity to Act Against One's Strongest Schema**
+Nevzat Subasioglu · Preprint · July 2026 · [code and worked cases](https://github.com/RealNevoEvo/acceptance-gate)
 
 ## Selected work
 
-**acceptance-gate** is the preprint repository and interactive simulation tool exploring the
-three-stage ceiling on cognitive schema override.
+**[Why doesn't an intelligent person correct themselves?](https://realnevoevo.github.io/acceptance-gate/)**
+The argument as a calculation you can follow. One surgeon, one day, two decisions that differ only
+in what the correction would have cost her to admit.
+
+**[acceptance-gate](https://github.com/RealNevoEvo/acceptance-gate)**
+Companion code to the paper. One equation, no dependencies, and the worked cases from the manuscript
+as executable tests. MIT, with a citation file.
