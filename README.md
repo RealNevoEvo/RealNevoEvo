@@ -36,7 +36,7 @@ self-worth rests on.
 **[From Mimicry to True Intelligence (TI) -- A New Paradigm for Artificial General Intelligence](https://arxiv.org/abs/2509.14474)**
 Meltem Subasioglu, Nevzat Subasioglu · arXiv, cs.AI / cs.CY · September 2025
 
-**The Acceptance Gate: Three Necessary Conditions for the Capacity to Act Against One's Strongest Schema**
+**The Acceptance Gate: Three Necessary Conditions for Acting Deliberately on What One's Schemata Propose**
 Nevzat Subasioglu · Preprint · July 2026 · [code and worked cases](https://github.com/RealNevoEvo/acceptance-gate)
 
 ## Selected work
