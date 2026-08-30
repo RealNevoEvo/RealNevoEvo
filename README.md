@@ -29,9 +29,10 @@ Two papers carry this work. **From Mimicry to True Intelligence** draws the line
 of AGI blur: replicating human *performance* is not the same as replicating human *process*. It proposes
 six components of genuine intelligence and a five-level taxonomy measurable against them.
 **The Acceptance Gate** goes one level deeper, into the mechanism itself: what has to be true for any
-agent to act against its own strongest schema. Detection, acceptance, override. The second station is
-where it binds, because acceptance means letting a truth stand even when it threatens what your
-self-worth rests on.
+agent to act deliberately on what its own schemata propose, rather than simply following them.
+Detection, acceptance, override. The second station is where it binds, because acceptance means
+letting a truth stand even when it threatens what your self-worth rests on. Autonomy here is the
+examination, not the opposite move: the deliberate act may well end up looking the same.
 
 **[From Mimicry to True Intelligence (TI) -- A New Paradigm for Artificial General Intelligence](https://arxiv.org/abs/2509.14474)**
 Meltem Subasioglu, Nevzat Subasioglu · arXiv, cs.AI / cs.CY · September 2025
